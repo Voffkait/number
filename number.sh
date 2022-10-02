@@ -1,6 +1,7 @@
-def sum(a):
-    return ((a - 1) / 2)
+while True:
+    def sum(a):
+        return ((a - 1) / 2)
 
-a = int(input('Число: '))
+    a = int(input('Число: '))
 
-print(f'{sum(a)}')
+    print(f'{sum(a)}')
